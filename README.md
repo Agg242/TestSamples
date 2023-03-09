@@ -1,7 +1,8 @@
 # TestSamples
 Trivial audio sample player for Amiga with Vampire V4 hardware
 
-Simple test program to play different kinds of samples on a vampirized Amiga.
+Simple test program to play different kinds of samples on a vampirized Amiga.<br>
+Debug binary prints information about audio sample, you'd better try it first.<br>
 Tested on Amiga 500 with Firebird.
 
 Usage: SAMPLE,PAULA/S,VOLUME/K/N
